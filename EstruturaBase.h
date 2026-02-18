@@ -1,0 +1,6 @@
+#ifndef ESTRUTURABASE_H_INCLUDED
+#define ESTRUTURABASE_H_INCLUDED
+
+
+
+#endif

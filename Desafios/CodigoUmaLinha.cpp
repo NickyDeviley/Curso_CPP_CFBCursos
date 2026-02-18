@@ -1,0 +1,1 @@
+#include <iostream> using namespace std; int main(int argc, char *argv) { cout << "Código de uma linha!" << endl; return 0; }
