@@ -27,4 +27,4 @@ Resumo de cada aula:
 
 41-45 - PROGRAMAÇÃO ORIENTADA A OBJETOS
 
-46-50 - Alocação dinâmica de memória, FSTREAM
+46-51 - Alocação dinâmica de memória, FSTREAM, iterator
